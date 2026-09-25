@@ -37,3 +37,7 @@ Top Products: Identifies top-performing products based on sales and customer rev
 Interactive Filters: Enables dynamic analysis using Product Category and Quarter filters.
 
 Interactive Dashboard: Users can drill into different dimensions of Amazon sales performance through Power BI visuals and slicers.
+
+
+Dashboard Preview <img width="752" height="425" alt="Amazon Sales Analysis" src="https://github.com/user-attachments/assets/a5829a84-0cbc-497b-9c59-05d25f9710a3" />
+
