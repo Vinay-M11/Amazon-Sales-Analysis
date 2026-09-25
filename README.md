@@ -1,4 +1,4 @@
-# Amazon-Sales-Analysis
+# Amazon-Sales-Analysis-Dashboard
 
 1. Project Title / Headline
 
