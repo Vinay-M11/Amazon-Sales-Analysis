@@ -1,13 +1,17 @@
 # Amazon-Sales-Analysis
 
 1. Project Title / Headline
+
 Amazon Sales & Product Performance Dashboard
 89,082 records with fields covering product category, product description, price, reviews, shipment destination, and order date. The dashboard includes KPI cards, monthly/weekly sales trends, category-level performance, top products by sales and reviews, and interactive filters.
 
+
 3. Short Description / Purpose
+
 An interactive Power BI dashboard designed to analyze Amazon product sales, product performance, customer reviews, and sales trends over time. It enables users to monitor YTD/QTD sales, products sold, reviews, category performance, top-performing products, and explore results using product category and quarter filters.
 
-4. Tech Stack
+
+5. Tech Stack
 
 Power BI – Dashboard development, interactive visualizations, KPIs, slicers, and data modeling.
 
@@ -18,6 +22,7 @@ DAX – KPI and time-intelligence measures such as YTD Sales, QTD Sales, YTD Pro
 Microsoft Excel – Source dataset and data preparation.
 
 Data Modeling – Amazon product data integrated with a dedicated Date Table for time-based analysis.
+
 
 4. Features & Highlights
 
